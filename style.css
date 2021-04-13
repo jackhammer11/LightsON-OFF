@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(8, 8, 143);
+   
+}
+
+
+.main-heading {
+
+    display: flex;
+    margin: 0 auto;
+    float: none; 
+    margin-top: 200px;
+    margin-bottom: 10px; 
+
+    border: 5px solid white;
+    justify-content: center;
+    align-items: center;
+    /* box-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,
+    0 0 20px #A5F1FF, 0 0 30px #A5F1FF,
+    0 0 40px #A5F1FF; */
+   
+
+    /* color: #e68442a1;
+    text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,
+             0 0 20px #A5F1FF, 0 0 30px #A5F1FF,
+             0 0 40px #A5F1FF; */
+
+}
+
+
